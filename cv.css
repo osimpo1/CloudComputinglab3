@@ -1,0 +1,60 @@
+hr.frall{
+    border-bottom: solid black;
+    border-top: solid black;
+}
+
+input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display:block;
+    text-align: center;
+  }
+
+  button{
+    font-size: 16px;
+    padding: 14px 40px;
+    background-color: orange;
+    font-weight: bold;
+  }
+
+h1{
+  text-align: center;
+  font-style: italic;
+}
+
+h2{
+  text-align: center;
+  font-size: 14pt;
+  font-family: Verdana;
+}
+
+p{
+  font-size: 8.5pt;
+  font-family: Verdana;
+}
+
+li{
+  font-size: 8.5pt;
+  font-family: Verdana;
+}
+
+h5{
+  font-size: 8.5pt;
+  font-family: Verdana;
+}
+
+p.up{
+  text-align: center;
+}
+
+body.one{
+  background-color: lightgoldenrodyellow;
+  font-weight: bold;
+}
+
+content{
+  margin: auto;
+  max-width: 500px;
+}
